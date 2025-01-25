@@ -1,3 +1,4 @@
+![ss1](https://github.com/BhavyaShah7409/Skin-Disease-Detection/blob/main/x_page-0001.jpg?raw=true)
 # Skin Disease Detection System using Deep Learning  
 
 This repository hosts the **Skin Disease Detection System**, a web-based application that utilizes a Convolutional Neural Network (CNN) to classify skin conditions from user-uploaded images. It provides accurate predictions, offering a helpful tool for early detection and awareness of skin diseases.  
